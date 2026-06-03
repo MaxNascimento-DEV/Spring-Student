@@ -1,10 +1,10 @@
-package com.devmax.springstundent;
+package com.barbeariaoliveira.barberproject;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringStundentApplicationTests {
+class BarberProjectApplicationTests {
 
     @Test
     void contextLoads() {

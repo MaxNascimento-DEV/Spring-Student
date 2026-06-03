@@ -1,13 +1,13 @@
-package com.devmax.springstundent;
+package com.barbeariaoliveira.barberproject;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringStundentApplication {
+public class BarberProjectApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SpringStundentApplication.class, args);
+        SpringApplication.run(BarberProjectApplication.class, args);
     }
 
 }
